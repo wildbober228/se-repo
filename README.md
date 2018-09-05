@@ -4,7 +4,7 @@ se_repo (Software Engineering courses for students of IT dept. of College of Bus
 ## Git configuration.  
 Configure ssh connection based on git documentation [https://help.github.com/articles/connecting-to-github-with-ssh](https://help.github.com/articles/connecting-to-github-with-ssh).
 
-1). **Fork repository** `https://github.com/secourse/se-repo` to your own user.
+1). **Fork repository** `https://github.com/secourse2019/se-repo` to your own user.
 
 2). **Clone your fork to your local machine**:
 
@@ -14,9 +14,9 @@ Configure ssh connection based on git documentation [https://help.github.com/art
 
 4). `git checkout master`
 
-5). `git remote add upstream git@github.com:qaprosoft/mfp-repo.git`
+5). `git remote add upstream git@github.com:secourse2019/se-repo.git`
 
-6). `git fetch upstream`
+6). `git pull upstream`
 
 7). `git checkout -b work_local_branch upstream/master`
 
