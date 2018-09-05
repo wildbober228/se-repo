@@ -24,4 +24,4 @@ And then after adding files (`git add` ...) use `git commit` (add description) a
 
     git push origin work_local_branch:work_remote_branch
 
-And on [https://github.com/qaprosoft/mfp_repo](https://github.com/qaprosoft/mfp_repo) you will see possibility to "**Compare & Pull Request**"
+And on [https://github.com/secourse2019/se-repo](https://github.com/secourse2019/se-repo) you will see possibility to "**Compare & Pull Request**"
